@@ -14,3 +14,6 @@
 
 ## Line Chart
 ![Screenshot_2024-02-16-14-04-11-07_f5f4c7a6c33c81957bcbee25f99e6f20](https://github.com/nic-dgl104-winter-2024/Yogesh_Manni/assets/29475936/dc2f8835-d919-4aee-95ae-32fea8ce26ac)
+
+## Blocks
+<img width="2545" alt="blocks" src="https://github.com/nic-dgl104-winter-2024/Yogesh_Manni/assets/29475936/0893ca24-8234-405c-a966-3f873138b17c">
